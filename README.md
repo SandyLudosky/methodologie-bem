@@ -1,4 +1,4 @@
-# Ecrire du meilleur CSS avec Less
+# Organiser le CSS avec la méthodologie BEM
 
 *Ce webinar est une introduction à la méthodologie BEM, avec une terminologie reconnaissable, pour créer des composants réutilisables et flexibles et créer du CSS plus structurée* 
 
