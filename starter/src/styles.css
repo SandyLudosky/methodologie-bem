@@ -1,0 +1,20 @@
+.menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    padding: 1rem;
+}
+
+.menu__item {
+    list-style-type: none;
+    color: #336699;
+}
+.menu__item:hover {
+    cursor: pointer;
+}
+
+.menu__item--is-active {
+   text-decoration: underline;
+   font-weight: 400;
+}
