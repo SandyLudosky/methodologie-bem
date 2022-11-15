@@ -19,7 +19,7 @@
          Modifier : menu__item--is-active
     -->
     <nav class="menu">
-        <li class="menu__item">Page 1</li>
+        <li class="menu__item menu__item--is-active">Page 1</li>
         <li class="menu__item">Page 2</li>
         <li class="menu__item">Page 3</li>
     </nav>
@@ -27,12 +27,14 @@
       <h1>HEADER</h1>
     </header>
     <main>
-      <section class="main">
+      <section class="main flex">
         <h2 class="main__h2">MAIN</h2>
       </section>
-      <div class="sidebar"><h2 class="main__h2">SIDEBAR</h2</div>
+      <div class="sidebar flex">
+        <h2 class="sidebar__h2">SIDEBAR</h2>
+      </div>
     </main>
-    <footer class="footer">
+    <footer class="footer flex">
       <p class="footer__p">FOOTER</p>
     </footer>
 

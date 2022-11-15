@@ -13,7 +13,6 @@
 .menu__item:hover {
     cursor: pointer;
 }
-
 .menu__item--is-active {
    text-decoration: underline;
    font-weight: 400;

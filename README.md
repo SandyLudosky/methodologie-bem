@@ -11,7 +11,6 @@
 
 ## les outils & ce dont vous aurez besoin : 
 - un code éditeur [Visual Code Studio](https://code.visualstudio.com/) 
-com/)
 - une dernière version stable de [Node](https://nodejs.org/en/)
 - un navigateur moderne: Chrome, Firefox ou Safari
 
